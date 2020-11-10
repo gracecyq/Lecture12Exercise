@@ -2,5 +2,5 @@
 
 Things that I had for breakfast today:
 
--Coffee
--Cranberry whole wheat toast
+- Coffee
+- Cranberry whole wheat toast
